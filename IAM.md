@@ -1,0 +1,2 @@
+# Identity and Access Management (IAM)
+This web service is centrialized AWS access management system. All of the accounts managed this web service. For ex: user,group,role,policy and etc.Password policy and two-auth options are managed this service.
