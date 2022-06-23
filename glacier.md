@@ -1,0 +1,2 @@
+# Glacier
+For ex: You have a files. This files must 1-10 year. Thats moment you are use this files only once. Maybe similar to archive file. This situation use Glacier to files are archive. For ex after 5 years later can be use this files. When you are use files this will be about 3 hours. 
