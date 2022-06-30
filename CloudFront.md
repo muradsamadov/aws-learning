@@ -1,0 +1,2 @@
+# CloudFront
+Maybe you can connect LB or S3 service. In that you must connect to for ex Franfurt. With cloufront you are all files keep close area. When you connect first all files upload this cloudfront and second time all connections are fast. With this option you can more speed.
