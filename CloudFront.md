@@ -1,2 +1,3 @@
 # CloudFront
 Maybe you can connect LB or S3 service. In that you must connect to for ex Franfurt. With cloufront you are all files keep close area. When you connect first all files upload this cloudfront and second time all connections are fast. With this option you can more speed.
+CloudFront with S3 - you can entered url S# with CloudFront. First you are create S3 bucket and add your codes. Second create CloudFront and add to S3 bucket. After deploy you can enter web url in S3 with CloudFront weburl. Weburl generate CloudFront.
