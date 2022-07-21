@@ -1,0 +1,2 @@
+# AWS Snow Family
+AWS Snowcone is a small, rugged, and secure edge computing and data migration device. Snowcone is designed to the OSHA standard for a one-person liftable device, is rack-mountable and can be checked as luggage on an airline.
